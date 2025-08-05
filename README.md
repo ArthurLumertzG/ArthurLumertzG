@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou Arthur Lumertz Guimarães
+# 👋 Olá! Eu sou Arthur Lumertz Guimarães  
+### Estudante de Ciência da Computação | Focado em Desenvolvimento Java & PostgreSQL
+
 
 🎓 Estudante de Ciência da Computação na UNESC  
 💻 Buscando minha primeira oportunidade como estagiário em desenvolvimento  
@@ -27,8 +29,8 @@ Sou curioso, comprometido e sempre em busca de aprender algo novo, seja resolven
 
 | Projeto | Descrição |
 |--------|-----------|
-| [Veterinária Java]([https://github.com/ArthurLumertzG/projeto-banco-de-dados]) | Sistema de gerenciamento de clínica veterinária com Java + PostgreSQL |
-| [Sistema de Universidade]([https://github.com/ckzwebber/unesc-final-java-project]) | Sistema de importação de arquivos .txt |
+| [Veterinária Java](https://github.com/ArthurLumertzG/projeto-banco-de-dados) | Sistema de gerenciamento de clínica veterinária com Java + PostgreSQL |
+| [Sistema de Universidade](https://github.com/ckzwebber/unesc-final-java-project) | Sistema de importação de arquivos .txt |
 
 > Acesse [meu portfólio completo aqui](https://portfolio-arthurlg.vercel.app/)
 
